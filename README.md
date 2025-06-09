@@ -88,8 +88,9 @@ Here's why:
 
 <br>
 <hr>
-<a href="http:[//www.google.com](https://cdn-icons-png.flaticon.com/512/4096/4096186.png)">
+<a href="http:https://www.linkedin.com/in/raksodnus/">
 <img src="https://cdn-icons-png.flaticon.com/512/4096/4096186.png" width="64" height="64"></a>
+
 
 
 <!--### Built With
