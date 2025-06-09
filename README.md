@@ -76,10 +76,10 @@
 <!-- ## About The Project -->
 
  <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
-<br>
-<hr>
 Hi my name is `Hasan "raksodnus" KESKİN`. I'm a developer with a strong interest in game development, server-side systems, and community management. I enjoy building things from scratch, solving problems, and working with passionate people. I'm constantly exploring new tools, languages, and ideas. Whether it's contributing to open-source projects or experimenting on my own, I'm always looking for ways to improve and grow as a developer.
 Feel free to reach out or explore my projects below.
+
+<br>
 <br>
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
@@ -87,8 +87,6 @@ Here's why:
 * You should implement DRY principles to the rest of your life :smile:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_READasdME.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
