@@ -59,8 +59,6 @@ Here's why:
 <br>* Build and manage custom server infrastructures
 <br>* Actively manage and grow online communities (especially on platforms like Discord)
 <br>* Work with technologies such as JAVA, JavaScript, and C#
-
-<br>
 <div align="center">
 <p><h2>TEST</h2></p>
 <a href="https://www.w3.org/html/">
