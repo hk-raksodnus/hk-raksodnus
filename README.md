@@ -62,8 +62,8 @@ Here's why:
 
 <br>
 <hr>
-<p><h2>My Socials</h2></p>
 <div align="center">
+<p><h2>My Socials</h2></p>
 <a href="https://www.linkedin.com/in/raksodnus/">
 <img src="https://cdn-icons-png.flaticon.com/512/4096/4096186.png" width="64" height="64"></a>
 
