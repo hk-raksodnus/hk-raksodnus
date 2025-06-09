@@ -65,7 +65,7 @@ Here's why:
 <img src="https://cdn-icons-png.flaticon.com/128/1891/1891365.png" width="64" height="64"></a>
 
 <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="64" height="64"></a>
+<img src="https://cdn-icons-png.flaticon.com/128/1073/1073463.png" width="64" height="64"></a>
 
 <a href="https://www.php.net">
 <img src="https://cdn-icons-png.flaticon.com/128/15773/15773201.png" width="64" height="64"></a>
