@@ -8,8 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -24,14 +22,12 @@
 [![Issues][issues-shield]][issues-url]
 [![Unlicense License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 -->
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">HASAN "RAKSODNUS" KESKIN</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
