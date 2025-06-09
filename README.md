@@ -30,9 +30,9 @@
   <h3 align="center">HASAN "RAKSODNUS" KESKIN</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Quality Makes the Difference
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/hk-raksodnus"><strong>Explore my projects »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
