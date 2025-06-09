@@ -60,7 +60,7 @@ Here's why:
 <br>* Actively manage and grow online communities (especially on platforms like Discord)
 <br>* Work with technologies such as JAVA, JavaScript, and C#
 <div align="center">
-<p><h2>TEST</h2></p>
+<p><h2>Languages ​​I know/learning</h2></p>
 <a href="https://www.w3.org/html/">
 <img src="https://cdn-icons-png.flaticon.com/128/1891/1891365.png" width="64" height="64"></a>
 
