@@ -88,15 +88,16 @@ Here's why:
 
 <br>
 <hr>
-<center>
+<div align="center">
 <a href="https://www.linkedin.com/in/raksodnus/">
 <img src="https://cdn-icons-png.flaticon.com/512/4096/4096186.png" width="64" height="64"></a>
 
 <a href="https://www.instagram.com/_.raksodnus/">
 <img src="https://cdn-icons-png.flaticon.com/128/4096/4096260.png" width="64" height="64"></a>
 
-
-</center>
+<a href="https://discord.com/users/551072969728851988">
+<img src="https://cdn-icons-png.flaticon.com/128/2504/2504896.png" width="64" height="64"></a>
+</div>
 
 
 <!--### Built With
