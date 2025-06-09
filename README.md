@@ -65,7 +65,7 @@ Here's why:
 <div align="center">
 <p><h2>TEST</h2></p>
 <a href="https://www.w3.org/html/">
-<img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" width="32" height="32"></a>
+<img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" width="64" height="64"></a>
 
 </div>
 
