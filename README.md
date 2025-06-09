@@ -66,7 +66,6 @@ Here's why:
 
 </div>
 
-<br>
 <div align="center">
 <p><h2>My Socials</h2></p>
 <a href="https://www.linkedin.com/in/raksodnus/">
