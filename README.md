@@ -8,11 +8,11 @@
     <a href="https://github.com/hk-raksodnus"><strong>Explore my projects »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/hk-raksodnus">View Demo</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/hk-raksodnus">Report Bug</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/hk-raksodnus">Request Feature</a>
   </p>
 </div>
 
