@@ -74,7 +74,7 @@ Here's why:
 <img src="https://cdn-icons-png.flaticon.com/128/644/644609.png" width="64" height="64"></a>
 
 <a href="https://www.python.org">
-<img src="https://cdn-icons-png.flaticon.com/128/17242/17242420.png" width="64" height="64"></a>
+<img src="https://cdn-icons-png.flaticon.com/128/11229/11229402.png" width="64" height="64"></a>
 
 </div>
 
