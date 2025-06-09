@@ -80,11 +80,11 @@ Here's why:
 <a href="https://www.w3schools.com/css/">
 <img src="https://cdn-icons-png.flaticon.com/128/1045/1045906.png" width="64" height="64"></a>
 
+<a href=" ">
+<img src="https://cdn.discordapp.com/attachments/1105508287383879731/1381642292980613141/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f31313232392f31313232393430322e706e67.png?ex=68484228&is=6846f0a8&hm=ca08d748a8cc1a2d910598de83b4bd60c82742826584e1b0a7f15ddfa7322034" width="64" height="64"></a>
+
 <a href="https://isocpp.org">
 <img src="https://cdn-icons-png.flaticon.com/128/11068/11068860.png" width="64" height="64"></a>
-
-<a href="https://www.java.com/tr/">
-<img src="https://cdn-icons-png.flaticon.com/128/644/644609.png" width="64" height="64"></a>
 
 </div>
 
