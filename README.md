@@ -74,7 +74,7 @@ Here's why:
 <img src="https://cdn-icons-png.flaticon.com/128/644/644609.png" width="64" height="64"></a>
 
 <a href="https://www.python.org">
-<img src="https://i.hizliresim.com/honha9w.png" width="64" height="64"></a>
+<img src="https://media.discordapp.net/attachments/1105508287383879731/1381638026991763586/pythonn.png?ex=68483e2f&is=6846ecaf&hm=650c07b225b2527a142c9785371f699185c2f93f2aadcae4ed84c21150734731&=&format=webp&quality=lossless" width="64" height="64"></a>
 
 </div>
 
