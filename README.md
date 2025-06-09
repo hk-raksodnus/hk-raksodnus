@@ -78,7 +78,8 @@
  <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 <br>
 <hr>
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Hi my name is Hasan "raksodnus" KESKİN. I'm a developer with a strong interest in game development, server-side systems, and community management. I enjoy building things from scratch, solving problems, and working with passionate people. I'm constantly exploring new tools, languages, and ideas. Whether it's contributing to open-source projects or experimenting on my own, I'm always looking for ways to improve and grow as a developer.
+Feel free to reach out or explore my projects below.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
