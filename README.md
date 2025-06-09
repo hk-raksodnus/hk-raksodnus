@@ -74,13 +74,13 @@ Here's why:
 <div align="center">
 <p><h2>My Socials</h2></p>
 <a href="https://www.linkedin.com/in/raksodnus/">
-<img src="https://cdn-icons-png.flaticon.com/512/4096/4096186.png" width="48" height="64"></a>
+<img src="https://cdn-icons-png.flaticon.com/512/4096/4096186.png" width="48" height="48"></a>
 
 <a href="https://www.instagram.com/_.raksodnus/">
-<img src="https://cdn-icons-png.flaticon.com/128/4096/4096260.png" width="48" height="64"></a>
+<img src="https://cdn-icons-png.flaticon.com/128/4096/4096260.png" width="48" height="48"></a>
 
 <a href="https://discord.com/users/551072969728851988">
-<img src="https://cdn-icons-png.flaticon.com/128/2504/2504896.png" width="48" height="64"></a>
+<img src="https://cdn-icons-png.flaticon.com/128/2504/2504896.png" width="48" height="48"></a>
 </div>
 
 
