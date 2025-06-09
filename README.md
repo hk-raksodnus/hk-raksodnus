@@ -61,7 +61,6 @@ Here's why:
 <br>* Work with technologies such as JAVA, JavaScript, and C#
 
 <br>
-<hr>
 <div align="center">
 <p><h2>TEST</h2></p>
 <a href="https://www.w3.org/html/">
@@ -70,7 +69,6 @@ Here's why:
 </div>
 
 <br>
-<hr>
 <div align="center">
 <p><h2>My Socials</h2></p>
 <a href="https://www.linkedin.com/in/raksodnus/">
