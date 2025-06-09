@@ -64,7 +64,8 @@ Here's why:
 <hr>
 <div align="center">
 <p><h2>TEST</h2></p>
-<a href="https://www.w3.org/html/" <img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" width="16" height="16"></a>
+<a href="https://www.w3.org/html/">
+<img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" width="16" height="16"></a>
 
 </div>
 
