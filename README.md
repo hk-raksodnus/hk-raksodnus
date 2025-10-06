@@ -8,7 +8,7 @@
     <a href="https://github.com/hk-raksodnus"><strong>Explore my projects »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/hk-raksodnus">View Demo</a>
+    <a href="https://github.com/hk-raksodnus">View All</a>
     &middot;
     <a href="https://github.com/hk-raksodnus">Report Bug</a>
     &middot;
