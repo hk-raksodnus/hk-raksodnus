@@ -60,45 +60,37 @@ Here's why:
 <br>* Actively manage and grow online communities (especially on platforms like Discord)
 <br>* Work with technologies such as JAVA, JavaScript, and C#
 <div align="center">
-<p><h2>Languages ​​I know/learning</h2></p>
-<a href="https://www.w3.org/html/">
-<img src="https://cdn-icons-png.flaticon.com/128/1891/1891365.png" width="64" height="64"></a>
+# 💫 About Me:
+Hi my name is Hasan "raksodnus" KESKİN . I'm a developer with a strong interest in game development, server-side systems, and community management. I enjoy building things from scratch, solving problems, and working with passionate people. I'm constantly exploring new tools, languages, and ideas. Whether it's contributing to open-source projects or experimenting on my own, I'm always looking for ways to improve and grow as a developer.Feel free to reach out or explore my projects below.<br><br>Here's why:<br>* Develop games and related systems, both client and server-side<br>* Build and manage custom server infrastructures<br>* Actively manage and grow online communities (especially on platforms like Discord)<br>* Work with technologies such as JAVA, JavaScript, and C#
 
-<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">
-<img src="https://cdn-icons-png.flaticon.com/128/1073/1073463.png" width="64" height="64"></a>
 
-<a href="https://www.php.net">
-<img src="https://cdn-icons-png.flaticon.com/128/15773/15773201.png" width="64" height="64"></a>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_raksodnus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.rakksodnus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raksodnus) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/_raksodnus) 
 
-<a href="https://www.java.com/tr/">
-<img src="https://cdn-icons-png.flaticon.com/128/644/644609.png" width="64" height="64"></a>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hk-raksodnus&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hk-raksodnus&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hk-raksodnus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://www.python.org">
-<img src="https://media.discordapp.net/attachments/1105508287383879731/1381638026991763586/pythonn.png?ex=68483e2f&is=6846ecaf&hm=650c07b225b2527a142c9785371f699185c2f93f2aadcae4ed84c21150734731&=&format=webp&quality=lossless" width="64" height="64"></a>
-<p> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hk-raksodnus&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<a href="https://www.w3schools.com/css/">
-<img src="https://cdn-icons-png.flaticon.com/128/1045/1045906.png" width="64" height="64"></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<a href=" ">
-<img src="https://cdn.discordapp.com/attachments/1105508287383879731/1381642292980613141/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f31313232392f31313232393430322e706e67.png?ex=68484228&is=6846f0a8&hm=ca08d748a8cc1a2d910598de83b4bd60c82742826584e1b0a7f15ddfa7322034" width="64" height="64"></a>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hk-raksodnus&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<a href="https://isocpp.org">
-<img src="https://cdn-icons-png.flaticon.com/128/11068/11068860.png" width="64" height="64"></a>
+---
+[![](https://visitcount.itsvg.in/api?id=hk-raksodnus&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
+  ## 💰 You can help me by Donating
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/raksodnus) 
 
-<div align="center">
-<p><h2>My Socials</h2></p>
-<a href="https://www.linkedin.com/in/raksodnus/">
-<img src="https://cdn-icons-png.flaticon.com/512/4096/4096186.png" width="48" height="48"></a>
-
-<a href="https://www.instagram.com/_.raksodnus/">
-<img src="https://cdn-icons-png.flaticon.com/128/4096/4096260.png" width="48" height="48"></a>
-
-<a href="https://discord.com/users/551072969728851988">
-<img src="https://cdn-icons-png.flaticon.com/128/2504/2504896.png" width="48" height="48"></a>
-</div>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!--### Built With
