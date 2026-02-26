@@ -63,6 +63,8 @@ Here's why:
   <img src="https://streak-stats.demolab.com?user=hk-raksodnus&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+![pacman graph](https://raw.githubusercontent.com/hk-raksodnus/hk-raksodnus/output/pacman-contribution-graph.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
