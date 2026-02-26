@@ -60,10 +60,6 @@ Here's why:
 <br>* Actively manage and grow online communities (especially on platforms like Discord)
 <br>* Work with technologies such as JAVA, JavaScript, and C#
 <div align="center">
-# 💫 About Me:
-Hi my name is Hasan "raksodnus" KESKİN . I'm a developer with a strong interest in game development, server-side systems, and community management. I enjoy building things from scratch, solving problems, and working with passionate people. I'm constantly exploring new tools, languages, and ideas. Whether it's contributing to open-source projects or experimenting on my own, I'm always looking for ways to improve and grow as a developer.Feel free to reach out or explore my projects below.<br><br>Here's why:<br>* Develop games and related systems, both client and server-side<br>* Build and manage custom server infrastructures<br>* Actively manage and grow online communities (especially on platforms like Discord)<br>* Work with technologies such as JAVA, JavaScript, and C#
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_raksodnus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.rakksodnus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raksodnus) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/_raksodnus) 
 
