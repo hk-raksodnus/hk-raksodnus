@@ -65,12 +65,16 @@ Here's why:
 
 <br>
 <hr>
+<div class="packman" style="display:none;">
 <br>
 
 ![pacman graph](https://raw.githubusercontent.com/hk-raksodnus/hk-raksodnus/output/pacman-contribution-graph.svg)
 
+
 <br>
+</div>
 <hr>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_raksodnus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.rakksodnus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raksodnus) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/_raksodnus) 
