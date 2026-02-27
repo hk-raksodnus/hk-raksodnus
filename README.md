@@ -58,7 +58,6 @@ Here's why:
 <br>* Develop games and related systems, both client and server-side
 <br>* Build and manage custom server infrastructures
 <br>* Actively manage and grow online communities (especially on platforms like Discord)
-<br>* Work with technologies such as JAVA, JavaScript, and C#
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hk-raksodnus&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
